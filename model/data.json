@@ -1,0 +1,42 @@
+{
+    "Plants": [{
+        "CD_PLANT": "1001",
+        "DS_PLANT": "1001 -  Fábrica 1"
+    }, {
+        "CD_PLANT": "1002",
+        "DS_PLANT": "1002 - Fábrica 2"
+    }],
+
+    "Tanks": [{
+        "CD_TANK": "001",
+        "DS_TANK": "001 - Tanque 1",
+        "TYPE": "BL"
+
+    }, {
+        "CD_TANK": "002",
+        "DS_TANK": "002 - Tanque 2",
+        "TYPE": "BL"
+    }, {
+        "CD_TANK": "003",
+        "DS_TANK": "003 - Tanque 3",
+        "TYPE": "BF"
+    }],
+
+    "Form": [{
+        "STAT_ID": "6",
+        "BATCH": "B1000000",
+        "DS_STAT": "Vazio",
+        "DS_DU": "---",
+        "CD_DU": "---",
+        "ORDER_NUMBER": "0000000001",
+        "CD_MATERIAL": "SUC0001",
+        "QT_ENV": 0,
+        "UOM_ENV": "KG",
+        "DT_INI": "",
+        "DT_FIM": "",
+        "TANK_DEST": "003 - Tanque 3 ",
+        "DS_DEST": "Tanque",
+        "ORDER_DEST": "0000000002"
+
+    }]
+}
